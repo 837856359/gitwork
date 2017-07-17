@@ -1,1 +1,4 @@
-ฤใบร
+<?php
+echo "nihao git";
+
+?>
